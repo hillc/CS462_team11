@@ -1,0 +1,9 @@
+file_name
+author_name
+last_update_date
+library_description
+inline_function_description
+inline_function_comments
+action_comments
+function_signature_description
+rgb_values
